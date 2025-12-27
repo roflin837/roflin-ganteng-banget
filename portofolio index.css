@@ -153,24 +153,3 @@ li{
     height:95px;
   }
 }
-
-.card{
-  position:relative;
-}
-
-.back-btn{
-  position:absolute;
-  top:14px;
-  left:16px;
-
-  font-size:22px;
-  color:#9ca3af;
-  text-decoration:none;
-  line-height:1;
-
-  transition:.2s ease;
-}
-
-.back-btn:hover{
-  color:#3b82f6;
-}
